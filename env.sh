@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# Set the environment variable
+export REACT_APP_API_KEY=AIzaSyAfYlkG9KfuYjSO5E2oUMOwKOWb2P4RTic
+export REACT_APP_AUTH_DOMAIN=asktoacedemy.firebaseapp.com
+export REACT_APP_PROJECT_ID=asktoacedemy
+export REACT_APP_STORAGE_BUCKET=asktoacedemy.appspot.com
+export REACT_APP_MESSAGING_SENDER_ID=497018506802
+export REACT_APP_APP_ID=1:497018506802:web:3c55600770ae002e60f62b
+export REACT_APP_MEASUREMENT_ID=G-HVZGX5T5EN
+
